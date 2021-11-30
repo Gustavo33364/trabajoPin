@@ -1,0 +1,17 @@
+{
+  "name": "trabajopin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-compile": "sass sass/index.scss css/index.css",
+    "sass-watch": "sass --watch sass/index.scss css/index.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "sass": "^1.39.0"
+  }
+}
